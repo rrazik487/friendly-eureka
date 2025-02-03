@@ -2,7 +2,7 @@ git clone https://github.com/rrazik487/friendly-eureka.git
 
 cd friendly-eureka
 
-pip install -m requirements.txt
+pip install -r requirements.txt
 
 cd applications
 
