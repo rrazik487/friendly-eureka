@@ -4,4 +4,6 @@ cd friendly-eureka
 
 pip install -m requirements.txt
 
+cd applications
+
 python3 app.py
