@@ -2,3 +2,12 @@ Flask==2.2.2
 Flask-SQLAlchemy==3.0.2
 Flask-RESTful==0.3.9
 pip install werkzeug==2.2.3
+pip install Flask==2.2.2
+Flask-SQLAlchemy==3.0.2 
+Flask-RESTful==0.3.9 
+werkzeug==2.2.3
+mysql-connector-python
+pymysql
+
+gunicorn
+
